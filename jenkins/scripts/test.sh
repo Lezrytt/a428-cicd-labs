@@ -19,3 +19,4 @@ echo 'runner Jest (https://facebook.github.io/jest/).'
 set -x
 npm test
 # npm add permission
+# npm add permission 2
