@@ -20,3 +20,4 @@ set -x
 npm test
 # npm add permission
 # npm add permission 2
+# sh new file
